@@ -19,3 +19,5 @@ rendered_prompt_in_french = tokenizer.apply_chat_template(messages_in_french, to
 
 print(rendered_prompt)
 print(rendered_prompt_in_french)
+
+# NB : The rendered_prompt returned by this function is now ready to use as the input for the chosen model
