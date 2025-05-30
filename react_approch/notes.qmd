@@ -1,0 +1,30 @@
+---
+title: "React Approach"
+output: 
+  html_document:
+    toc: true
+---
+
++--------------------+---------------------------------------------------------------------------------------------+
+| Type of thought    | Examples                                                                                    |
++====================+=============================================================================================+
+| Planning           | I need to break this task into 3 steps                                                      |
+|                    |                                                                                             |
+|                    | 1.  gather data                                                                             |
+|                    | 2.  analyze trends                                                                          |
+|                    | 3.  generate report                                                                         |
++--------------------+---------------------------------------------------------------------------------------------+
+| Analysis           | Based on this error message, the issue appears to be with the database connexion            |
++--------------------+---------------------------------------------------------------------------------------------+
+| Decision making    | Given the user's budget constraints, I§ should recomand the mid-tier option                 |
++--------------------+---------------------------------------------------------------------------------------------+
+| Problem solving    | To optimize this code, I should first profile it to identify bottlenecks                    |
++--------------------+---------------------------------------------------------------------------------------------+
+| Memory integration | The user mentionned his preference for Python earlier, so I will provide examples in Python |
++--------------------+---------------------------------------------------------------------------------------------+
+| Self-reflection    | My last action didn't work well, I will try another approach                                |
++--------------------+---------------------------------------------------------------------------------------------+
+| Goal setting       | To complete this task, I need to first establish the acceptance criteria                    |
++--------------------+---------------------------------------------------------------------------------------------+
+| Prioritization     | The security vulnerability should be adressed before adding new features                    |
++--------------------+---------------------------------------------------------------------------------------------+
