@@ -3,7 +3,7 @@
 Ici quelques notes pour m'aider à répertorier les points à appronfondir.
 
 ## Notes actions à faire pour plus tard
-- [ ] Ajouter un exemple de code pour l'API de l'agent
+- [ ] Agents templates
 - [ ] notes gradio / Jinja2
 - [ ] notes uv
 - [ ] Model Context Protocol (MCP): a unified tool interface
