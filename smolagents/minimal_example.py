@@ -27,5 +27,5 @@ agent = CodeAgent(
 )
 
 # Now the agent can search the web!
-result3 = agent.run("Resume moi comment est fabriqué l'indice des prix à la consommation. Pour cela fais une recherche sur insee.fr")
+result3 = agent.run("Resume moi comment est fabriqué l'indice des prix à la consommation français. Pour cela fais une recherche sur insee.fr.")
 print(result3)
